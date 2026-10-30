@@ -1,3 +1,4 @@
+# KR2: Kuzkin
 import os
 import socket
 
